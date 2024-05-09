@@ -1,1 +1,1 @@
-Pascal Triangle
+Minimum Operations Project
