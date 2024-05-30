@@ -41,4 +41,4 @@ def solve(n):
         i = 0
 
 
-solve(n)i
+solve(n)
